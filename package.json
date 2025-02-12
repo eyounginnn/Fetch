@@ -1,7 +1,7 @@
 {
-  "name": "fs-app-template",
+  "name": "fetch",
   "version": "2.0.0",
-  "description": "Some boilerplate code to get you started - get shakin'!",
+  "description": "Here at Fetch, we love dogs, and hope you do too! Building a website to help a dog-love search through a database of shelter dogs, with hope of finding a lucky dog a new home!",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
