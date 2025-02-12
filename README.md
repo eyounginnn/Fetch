@@ -1,4 +1,4 @@
 <<<<<<< HEAD
 # Fetch
-=======
->>>>>>> boilermaker/main
+
+Here is my attempt at the Fetch Front - End Development Take home assignment! 
